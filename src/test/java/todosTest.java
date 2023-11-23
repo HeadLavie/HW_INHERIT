@@ -112,7 +112,7 @@ public class todosTest {
 
         Meeting meeting = new Meeting(
                 555,
-                "Обсудить покупки",
+                "Обсудить покупочки",
                 "Покупки",
                 "Во вторник после обеда"
         );
